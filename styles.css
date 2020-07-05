@@ -1,0 +1,28 @@
+.main__background {
+  
+}
+
+.navigation__link {
+  margin: 15%;
+  padding-inline-start: initial;
+ 
+}
+
+.name__page {
+  text-align: center;
+
+}
+
+.head__article {
+  text-align: center;
+  color: black;
+  background-color: #3caa9ddc;
+ 
+}
+
+.head__article--text {
+  text-align: center;
+  border-top: 5%;
+  border-bottom: 13px;
+}
+
